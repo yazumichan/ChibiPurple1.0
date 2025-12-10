@@ -1,0 +1,6 @@
+{ "id": "chibi-purple-mint", "version": "1.0.0", "name": "Chibi Purple Mint",
+"description": "Mint Chibi Purple NFT linked to your Farcaster identity.",
+"iconUrl": "https://your-deploy.example.com/icon.png",
+"entrypoint": "https://your-deploy.example.com/index.html",
+"scopes": ["wallet.read","wallet.sign","actions"], "author": "Your Name",
+"permissions": ["wallet","notifications"] }
